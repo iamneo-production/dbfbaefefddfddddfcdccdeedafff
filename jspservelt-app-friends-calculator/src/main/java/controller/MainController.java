@@ -74,5 +74,4 @@ public static int calculate(String myName, String friendName) {
 }
 
 
-	
 }
